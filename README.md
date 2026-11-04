@@ -1,3 +1,7 @@
+> **Ovia Inc fork — modification reference.** We maintain this fork of [GoogleCloudPlatform/race-condition](https://github.com/GoogleCloudPlatform/race-condition). **Modifications by Ovia Inc:** this reference note, added November 2026 as part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit in this repository says so. Upstream credit: GoogleCloudPlatform. Licence: NOASSERTION (see LICENSE where present).
+
+---
+
 # Race Condition
 
 [![CI](https://github.com/GoogleCloudPlatform/race-condition/actions/workflows/ci.yml/badge.svg)](https://github.com/GoogleCloudPlatform/race-condition/actions/workflows/ci.yml)
